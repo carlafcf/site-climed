@@ -487,7 +487,8 @@ a:focus {
 
 .doctor_section {
   /*background: #178066;*/
-  background: #00956a;
+  /*background: #00956a;*/
+  background: #6ea47d;
 }
 
 .doctor_section .heading_container {
@@ -767,7 +768,8 @@ ul {
 
 .footer_section {
   /*background: #178066;*/
-  background: #00956a;
+  /*background: #00956a;*/
+  background: #6ea47d;
   color: #ffffff;
   padding: 60px 0 15px 0;
   position: relative;
